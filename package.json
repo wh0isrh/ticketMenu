@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "enmap": "^5.8.7"
+  },
+  "name": "menuticket",
+  "version": "1.0.0",
+  "description": "Simple bot ticket utilisant les menus.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
